@@ -1,0 +1,7 @@
+<templateSet group="Custom">
+  <template name="apl" value="@apply: $END$;" description="Tailwindcss Apply" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
