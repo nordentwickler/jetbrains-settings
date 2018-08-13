@@ -4,7 +4,7 @@
     <property name="created">2017-08-29T18:16:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2018-07-31T00:18:40</property>
+    <property name="modified">2018-08-13T12:11:42</property>
     <property name="originalScheme">exZeusNG</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -562,6 +562,11 @@
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
+    <option name="DOCKER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="1bc28d" />
+      </value>
+    </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="798891" />
@@ -776,6 +781,12 @@
         <option name="EFFECT_COLOR" value="faa193" />
         <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INI.KEY">
+      <value>
+        <option name="FOREGROUND" value="57ffc8" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
