@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="apl" value="@apply $END$;" description="tailwindcss apply" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
